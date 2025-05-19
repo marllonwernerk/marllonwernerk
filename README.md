@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 
 
 Eu sou o Marllon Wernerk, sou um Programador Front End, atualmente estou aprendendo e criando projetos com:
 
